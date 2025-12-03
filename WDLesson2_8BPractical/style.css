@@ -1,0 +1,28 @@
+nav{
+  padding:5 px
+}
+nav a{
+  color:black;
+  margin:0 10 px 0 10 px;
+  display:inline-block;
+  width:20;
+  text-align:center;
+}
+*{
+  font-style:arial;
+}
+a{
+  text-decoration: none;
+}
+nav a:hover{
+  border-bottom: 2 px solid black;
+}
+.banner{
+  background-color:blue;
+  color:white
+}
+.main{
+  font-size:24 pt;
+  color:blue;
+}
+
